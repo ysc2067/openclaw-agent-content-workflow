@@ -1,0 +1,4 @@
+# requirements.txt
+# Dependencies for OpenClaw Agent Content Workflow
+# Currently only uses Python standard library.
+# When integrating with MiMo API, add requests / httpx here.
